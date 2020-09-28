@@ -18,7 +18,7 @@ Javascript, React, JQuery, HTML5, SASS, GatsbyJS.
 
 #### Employment History
 **Independent Software Consultant** <br/>
-Self-employed  ·  6 months
+Self-employed  ·  Jan 2020 - Jun 2020  ·  6 months
 
 - Building an iOS app to collect and neatly organize useful links as an indie developer.
 - Designed & developed an open source React-based blog with an average of 30 visits per day.
@@ -26,7 +26,7 @@ Self-employed  ·  6 months
 - I've worked on polishing my graphic design skills, and delved into unfamiliar web development.
 
 **Senior Software Engineer (iOS)** <br/>
-[Selling Solutions Scandinavia AB](https://icontrolapp.se), Remote  ·  3 years 1 month
+[Selling Solutions Scandinavia AB](https://icontrolapp.se), Remote  ·  Dec 2016 - Dec 2019  ·  3 years 1 month
 
 - I worked remotely on the company's flagship app called iControl, which generates construction project documentation.
 - Developed and maintained major features of the app, automated testing and deployment, managed releases to the App Store.
@@ -34,14 +34,14 @@ Self-employed  ·  6 months
 - I was involved in the recruitment process & was responsible for managing a small remote team.
 
 **Senior Software Engineer (iOS)** <br/>
-[Y Media Labs](https://ymedialabs.com), Bengaluru  ·  1 year 2 months
+[Y Media Labs](https://ymedialabs.com), Bengaluru  ·  Oct 2015 - Nov 2016  ·  1 year 2 months
 
 - I built iOS applications for a diverse array of client and internal projects.
 - Contributed to a total of five iPhone apps, two of which featured in the App Store.
 - I presented interesting trends, concepts and developments in the Industry.
 
 **Software Engineer (iOS)** <br/>
-[Mobinius Technologies](https://mobinius.com), Bengaluru  ·  3 years
+[Mobinius Technologies](https://mobinius.com), Bengaluru  ·  Oct 2012 - Sep 2015  ·  3 years
 
 - Kickstarted my career as a trainee with a focus on learning objective-c and iOS development.
 - Successfully integrated an early stage third-party framework based on research. 
