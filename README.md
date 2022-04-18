@@ -12,7 +12,9 @@
 
 
 #### Languages and Technologies
-Swift, Objective-C, Couchbase Mobile, Core Data, URLSession, REST, GraphQL, TDD, CI/CD, Unit testing, Push notifications, In-app purchases, RxSwift, MVVM, VIPER.
+Swift, Objective-C, SwiftUI, Push notifications, In-app purchases
+REST, GraphQL, Couchbase Mobile, Core Data, Realm, 
+RxSwift, MVVM, VIPER, TDD, CI/CD, Unit testing.
 Javascript, React, JQuery, HTML5, SASS, GatsbyJS.
 
 
